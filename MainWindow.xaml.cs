@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 
-class Program
+class Program 
 {
     static void Main(string[] args)
     {
+        
+
         int gold = 100;
         Dictionary<string, int> storeItems = new Dictionary<string, int>()
         {
