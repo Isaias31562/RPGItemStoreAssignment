@@ -1,0 +1,2 @@
+For each commit I added the main loop, error handling, project setup, and created the basic item store.
+I learned that git can change a file with a commit command and I learned that git can be used to store code. 
